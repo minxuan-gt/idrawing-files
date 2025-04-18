@@ -136,14 +136,14 @@
         <mxCell id="L5CIg9kbxpwdVbxnZiMW-54" value="问题创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="335" width="75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L5CIg9kbxpwdVbxnZiMW-55" value="用户创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="950" width="75" height="40" as="geometry" />
+        <mxCell id="L5CIg9kbxpwdVbxnZiMW-55" value="回答的问题ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="610" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L5CIg9kbxpwdVbxnZiMW-56" value="用户创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="990" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L5CIg9kbxpwdVbxnZiMW-57" value="回答创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="595" y="580" width="75" height="40" as="geometry" />
+          <mxGeometry x="540" y="590" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L5CIg9kbxpwdVbxnZiMW-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="L5CIg9kbxpwdVbxnZiMW-42" target="L5CIg9kbxpwdVbxnZiMW-42">
           <mxGeometry relative="1" as="geometry" />
