@@ -93,7 +93,7 @@
         <mxCell id="L5CIg9kbxpwdVbxnZiMW-53" value="文本内容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="485" width="75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L5CIg9kbxpwdVbxnZiMW-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="L5CIg9kbxpwdVbxnZiMW-54" target="L5CIg9kbxpwdVbxnZiMW-8">
+        <mxCell id="L5CIg9kbxpwdVbxnZiMW-74" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="L5CIg9kbxpwdVbxnZiMW-54" target="L5CIg9kbxpwdVbxnZiMW-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L5CIg9kbxpwdVbxnZiMW-54" value="问题创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -202,7 +202,7 @@
         <mxCell id="L5CIg9kbxpwdVbxnZiMW-55" value="回答的问题ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="L5CIg9kbxpwdVbxnZiMW-69">
           <mxGeometry x="230" y="470" width="75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L5CIg9kbxpwdVbxnZiMW-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="L5CIg9kbxpwdVbxnZiMW-69" source="L5CIg9kbxpwdVbxnZiMW-57">
+        <mxCell id="L5CIg9kbxpwdVbxnZiMW-79" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="L5CIg9kbxpwdVbxnZiMW-69" source="L5CIg9kbxpwdVbxnZiMW-57">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="380" as="targetPoint" />
           </mxGeometry>
