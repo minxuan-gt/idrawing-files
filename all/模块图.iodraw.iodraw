@@ -100,9 +100,6 @@
         <mxCell id="L5CIg9kbxpwdVbxnZiMW-37" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="210" width="75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L5CIg9kbxpwdVbxnZiMW-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L5CIg9kbxpwdVbxnZiMW-38" target="L5CIg9kbxpwdVbxnZiMW-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="L5CIg9kbxpwdVbxnZiMW-38" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="150" width="75" height="40" as="geometry" />
         </mxCell>
@@ -150,6 +147,12 @@
         </mxCell>
         <mxCell id="L5CIg9kbxpwdVbxnZiMW-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="L5CIg9kbxpwdVbxnZiMW-42" target="L5CIg9kbxpwdVbxnZiMW-42">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L5CIg9kbxpwdVbxnZiMW-63" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="240" as="sourcePoint" />
+            <mxPoint x="180" y="190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
