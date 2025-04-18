@@ -112,7 +112,7 @@
         <mxCell id="L5CIg9kbxpwdVbxnZiMW-40" value="回答ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="410" width="75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L5CIg9kbxpwdVbxnZiMW-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="L5CIg9kbxpwdVbxnZiMW-41" target="L5CIg9kbxpwdVbxnZiMW-1">
+        <mxCell id="L5CIg9kbxpwdVbxnZiMW-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="L5CIg9kbxpwdVbxnZiMW-41" target="L5CIg9kbxpwdVbxnZiMW-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L5CIg9kbxpwdVbxnZiMW-41" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -127,7 +127,7 @@
         <mxCell id="L5CIg9kbxpwdVbxnZiMW-43" value="用户创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="200" width="75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L5CIg9kbxpwdVbxnZiMW-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L5CIg9kbxpwdVbxnZiMW-44" target="L5CIg9kbxpwdVbxnZiMW-1">
+        <mxCell id="L5CIg9kbxpwdVbxnZiMW-66" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="L5CIg9kbxpwdVbxnZiMW-44" target="L5CIg9kbxpwdVbxnZiMW-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L5CIg9kbxpwdVbxnZiMW-44" value="用户密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
