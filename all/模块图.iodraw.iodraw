@@ -11,7 +11,7 @@
           <mxGeometry x="325" y="305" width="150" height="350" as="geometry" />
         </mxCell>
         <mxCell id="H8G4kXHl9o1Uyd0EhrVj-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;用户2" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="490" width="40" height="60" as="geometry" />
+          <mxGeometry x="240" y="510" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H8G4kXHl9o1Uyd0EhrVj-3" value="发布问题" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="350" width="120" height="60" as="geometry" />
@@ -30,7 +30,7 @@
         </mxCell>
         <mxCell id="H8G4kXHl9o1Uyd0EhrVj-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="275" y="540" as="sourcePoint" />
+            <mxPoint x="276" y="540" as="sourcePoint" />
             <mxPoint x="325" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
