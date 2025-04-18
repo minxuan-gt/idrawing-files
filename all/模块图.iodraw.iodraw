@@ -4,11 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="H8G4kXHl9o1Uyd0EhrVj-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H8G4kXHl9o1Uyd0EhrVj-1" target="H8G4kXHl9o1Uyd0EhrVj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H8G4kXHl9o1Uyd0EhrVj-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;用户1" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="380" width="30" height="60" as="geometry" />
+          <mxGeometry x="220" y="380" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H8G4kXHl9o1Uyd0EhrVj-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="305" width="150" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="H8G4kXHl9o1Uyd0EhrVj-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H8G4kXHl9o1Uyd0EhrVj-2" target="H8G4kXHl9o1Uyd0EhrVj-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H8G4kXHl9o1Uyd0EhrVj-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;用户2" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="490" width="40" height="60" as="geometry" />
