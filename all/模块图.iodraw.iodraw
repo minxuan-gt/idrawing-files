@@ -10,8 +10,11 @@
         <mxCell id="H8G4kXHl9o1Uyd0EhrVj-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;用户2" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="500" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H8G4kXHl9o1Uyd0EhrVj-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="H8G4kXHl9o1Uyd0EhrVj-3" value="发布问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H8G4kXHl9o1Uyd0EhrVj-4" value="发布问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
