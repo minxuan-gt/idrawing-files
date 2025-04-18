@@ -13,8 +13,11 @@
         <mxCell id="H8G4kXHl9o1Uyd0EhrVj-3" value="发布问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H8G4kXHl9o1Uyd0EhrVj-4" value="回答问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H8G4kXHl9o1Uyd0EhrVj-4" value="回答自己的问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H8G4kXHl9o1Uyd0EhrVj-5" value="回答自己的问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
