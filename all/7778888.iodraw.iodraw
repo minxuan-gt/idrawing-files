@@ -124,8 +124,14 @@
         <mxCell id="9taKXdIb0vQJjsyIS9F0-30" value="提问" style="rhombus;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="390" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9taKXdIb0vQJjsyIS9F0-35" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="430" width="120" height="80" as="geometry" />
+        <mxCell id="9taKXdIb0vQJjsyIS9F0-35" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="260" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9taKXdIb0vQJjsyIS9F0-36" value="date" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="340" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9taKXdIb0vQJjsyIS9F0-37" value="date" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="350" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
