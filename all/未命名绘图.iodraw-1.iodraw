@@ -1,10 +1,10 @@
 <mxfile host="www.idrawing.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Nvi_sI7TVKhUYGIDN-cc">
-    <mxGraphModel dx="381" dy="208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="493" dy="269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="数据层" link="https://www.sge.com.cn/" id="ZP7NSGQvpVb0K51s99iJ-2">
+        <UserObject label="" link="https://www.sge.com.cn/" id="ZP7NSGQvpVb0K51s99iJ-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="209" y="50" width="410" height="90" as="geometry" />
           </mxCell>
@@ -14,11 +14,6 @@
         </mxCell>
         <mxCell id="ZP7NSGQvpVb0K51s99iJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZP7NSGQvpVb0K51s99iJ-4" target="ZP7NSGQvpVb0K51s99iJ-7">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZP7NSGQvpVb0K51s99iJ-9" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZP7NSGQvpVb0K51s99iJ-8">
-          <mxGeometry x="-0.5107" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ZP7NSGQvpVb0K51s99iJ-4" value="sge.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="77.5" width="80" height="35" as="geometry" />
