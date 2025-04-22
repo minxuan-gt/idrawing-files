@@ -178,8 +178,11 @@
         <mxCell id="9taKXdIb0vQJjsyIS9F0-55" value="问题创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="200" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9taKXdIb0vQJjsyIS9F0-56" value="问题ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="150" width="60" height="40" as="geometry" />
+        <mxCell id="9taKXdIb0vQJjsyIS9F0-56" value="对话ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="130" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9taKXdIb0vQJjsyIS9F0-57" value="问题ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="160" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
