@@ -12,7 +12,7 @@
         <mxCell id="ZP7NSGQvpVb0K51s99iJ-3" value="inserting.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="77.5" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="ZP7NSGQvpVb0K51s99iJ-4" value="www.sge.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZP7NSGQvpVb0K51s99iJ-4" value="sge.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="77.5" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
