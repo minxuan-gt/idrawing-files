@@ -21,12 +21,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="pjKYwcCRFq83PSSZnzyK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Kkqy7wvExCZKb35Yaxd3-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Kkqy7wvExCZKb35Yaxd3-20" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;用户&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;模块&lt;/span&gt;&lt;/p&gt;" style="rounded=0;direction=south;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="200" y="240" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pjKYwcCRFq83PSSZnzyK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Kkqy7wvExCZKb35Yaxd3-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="345" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pjKYwcCRFq83PSSZnzyK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Kkqy7wvExCZKb35Yaxd3-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Kkqy7wvExCZKb35Yaxd3-21" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;论坛&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;模块&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
@@ -106,8 +116,8 @@
         </mxCell>
         <mxCell id="pjKYwcCRFq83PSSZnzyK-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="390" as="sourcePoint" />
-            <mxPoint x="260" y="390" as="targetPoint" />
+            <mxPoint x="320" y="380" as="sourcePoint" />
+            <mxPoint x="380" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
