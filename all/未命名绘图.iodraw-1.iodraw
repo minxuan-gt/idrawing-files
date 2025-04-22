@@ -16,7 +16,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZP7NSGQvpVb0K51s99iJ-4" value="sge.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="77.5" width="80" height="35" as="geometry" />
+          <mxGeometry x="370" y="77.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ZP7NSGQvpVb0K51s99iJ-7" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="77.5" width="80" height="35" as="geometry" />
@@ -35,6 +35,11 @@
         <mxCell id="ZP7NSGQvpVb0K51s99iJ-14" value="投资助手大模型参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="207.5" width="80" height="35" as="geometry" />
         </mxCell>
+        <UserObject label="" link="https://www.sge.com.cn/" id="ZP7NSGQvpVb0K51s99iJ-15">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="219" y="190" width="410" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
