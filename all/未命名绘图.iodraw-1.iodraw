@@ -49,8 +49,8 @@
         <mxCell id="ZP7NSGQvpVb0K51s99iJ-19" value="投资助手对话" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="357.5" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="ZP7NSGQvpVb0K51s99iJ-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="ZP7NSGQvpVb0K51s99iJ-21" value="投资助手对话" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="539" y="357.5" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
