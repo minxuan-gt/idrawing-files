@@ -10,9 +10,6 @@
         <mxCell id="6KfCgDGKn5El10VYtRsS-5" value="用户" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="35" y="400" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9taKXdIb0vQJjsyIS9F0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6KfCgDGKn5El10VYtRsS-7" target="6KfCgDGKn5El10VYtRsS-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="6KfCgDGKn5El10VYtRsS-7" value="对话大模型" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="230" width="80" height="40" as="geometry" />
         </mxCell>
