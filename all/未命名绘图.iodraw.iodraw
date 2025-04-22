@@ -108,6 +108,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9taKXdIb0vQJjsyIS9F0-30" value="提问" style="rhombus;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="90" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
