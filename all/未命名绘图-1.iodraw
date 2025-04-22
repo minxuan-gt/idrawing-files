@@ -20,17 +20,42 @@
         <mxCell id="Kkqy7wvExCZKb35Yaxd3-20" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;用户&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;模块&lt;/span&gt;&lt;/p&gt;" style="rounded=0;direction=south;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="200" y="240" width="50" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="pjKYwcCRFq83PSSZnzyK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Kkqy7wvExCZKb35Yaxd3-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Kkqy7wvExCZKb35Yaxd3-21" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;论坛&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;模块&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="320" y="240" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pjKYwcCRFq83PSSZnzyK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Kkqy7wvExCZKb35Yaxd3-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="462" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Kkqy7wvExCZKb35Yaxd3-22" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;黄金价格预测模块&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="437" y="240" width="50" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="pjKYwcCRFq83PSSZnzyK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Kkqy7wvExCZKb35Yaxd3-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="575" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Kkqy7wvExCZKb35Yaxd3-23" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;可视化展示模块&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="550" y="240" width="50" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="pjKYwcCRFq83PSSZnzyK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Kkqy7wvExCZKb35Yaxd3-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="685" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Kkqy7wvExCZKb35Yaxd3-24" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;投资助手模块&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="660" y="240" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pjKYwcCRFq83PSSZnzyK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Kkqy7wvExCZKb35Yaxd3-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="193" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Kkqy7wvExCZKb35Yaxd3-26" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;用户&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;登陆&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="170" y="390" width="46" height="120" as="geometry" />
