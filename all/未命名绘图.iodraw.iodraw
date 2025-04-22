@@ -20,6 +20,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9taKXdIb0vQJjsyIS9F0-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6KfCgDGKn5El10VYtRsS-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6KfCgDGKn5El10VYtRsS-5" value="用户" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="35" y="400" width="80" height="40" as="geometry" />
         </mxCell>
@@ -28,6 +33,11 @@
         </mxCell>
         <mxCell id="9taKXdIb0vQJjsyIS9F0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="6KfCgDGKn5El10VYtRsS-8" target="9taKXdIb0vQJjsyIS9F0-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9taKXdIb0vQJjsyIS9F0-28" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9taKXdIb0vQJjsyIS9F0-15">
+          <mxGeometry x="-0.0098" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6KfCgDGKn5El10VYtRsS-8" value="问题" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="465" y="230" width="80" height="40" as="geometry" />
