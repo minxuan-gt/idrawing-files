@@ -52,6 +52,11 @@
         <mxCell id="ZP7NSGQvpVb0K51s99iJ-21" value="论坛" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="337.5" width="80" height="35" as="geometry" />
         </mxCell>
+        <UserObject label="" link="https://www.sge.com.cn/" id="ZP7NSGQvpVb0K51s99iJ-22">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="209" y="440" width="410" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
