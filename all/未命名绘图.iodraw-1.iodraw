@@ -4,13 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="https://www.sge.com.cn/" link="https://www.sge.com.cn/" id="ZP7NSGQvpVb0K51s99iJ-2">
+        <UserObject label="" link="https://www.sge.com.cn/" id="ZP7NSGQvpVb0K51s99iJ-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="209" y="50" width="410" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="ZP7NSGQvpVb0K51s99iJ-3" value="inserting.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="77.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ZP7NSGQvpVb0K51s99iJ-4" value="inserting.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="70" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
