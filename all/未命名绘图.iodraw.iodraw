@@ -7,6 +7,24 @@
         <mxCell id="6KfCgDGKn5El10VYtRsS-5" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="6KfCgDGKn5El10VYtRsS-7" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="380" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6KfCgDGKn5El10VYtRsS-8" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="510" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6KfCgDGKn5El10VYtRsS-9" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6KfCgDGKn5El10VYtRsS-10" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="580" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6KfCgDGKn5El10VYtRsS-11" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="620" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6KfCgDGKn5El10VYtRsS-12" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
