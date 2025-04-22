@@ -229,13 +229,17 @@
         <mxCell id="9taKXdIb0vQJjsyIS9F0-55" value="问题创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="200" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9taKXdIb0vQJjsyIS9F0-83" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9taKXdIb0vQJjsyIS9F0-56" target="6KfCgDGKn5El10VYtRsS-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9taKXdIb0vQJjsyIS9F0-83" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="9taKXdIb0vQJjsyIS9F0-56" target="6KfCgDGKn5El10VYtRsS-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="230" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="9taKXdIb0vQJjsyIS9F0-56" value="对话ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="150" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9taKXdIb0vQJjsyIS9F0-82" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9taKXdIb0vQJjsyIS9F0-57">
+        <mxCell id="9taKXdIb0vQJjsyIS9F0-82" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="9taKXdIb0vQJjsyIS9F0-57">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="230" as="targetPoint" />
           </mxGeometry>
