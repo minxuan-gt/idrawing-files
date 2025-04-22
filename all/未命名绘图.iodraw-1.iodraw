@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZP7NSGQvpVb0K51s99iJ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZP7NSGQvpVb0K51s99iJ-2" target="ZP7NSGQvpVb0K51s99iJ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="" link="https://www.sge.com.cn/" id="ZP7NSGQvpVb0K51s99iJ-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="209" y="50" width="410" height="90" as="geometry" />
@@ -21,9 +24,12 @@
         <mxCell id="ZP7NSGQvpVb0K51s99iJ-7" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="77.5" width="80" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="ZP7NSGQvpVb0K51s99iJ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZP7NSGQvpVb0K51s99iJ-10" target="ZP7NSGQvpVb0K51s99iJ-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="" link="https://www.sge.com.cn/" id="ZP7NSGQvpVb0K51s99iJ-10">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="209" y="180" width="410" height="90" as="geometry" />
+            <mxGeometry x="205" y="180" width="410" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="ZP7NSGQvpVb0K51s99iJ-12" value="LSTM黄金价格预测模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
