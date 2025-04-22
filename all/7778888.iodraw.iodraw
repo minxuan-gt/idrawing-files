@@ -158,10 +158,10 @@
           <mxGeometry x="590" y="540" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9taKXdIb0vQJjsyIS9F0-48" value="回答的问题ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="650" width="60" height="40" as="geometry" />
+          <mxGeometry x="560" y="640" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9taKXdIb0vQJjsyIS9F0-49" value="问答ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="384" y="640" width="60" height="40" as="geometry" />
+        <mxCell id="9taKXdIb0vQJjsyIS9F0-49" value="回答创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="640" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
