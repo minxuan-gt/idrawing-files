@@ -81,8 +81,11 @@
         <mxCell id="ZP7NSGQvpVb0K51s99iJ-28" value="用户层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="440" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZP7NSGQvpVb0K51s99iJ-35" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="438" y="90" width="80" height="40" as="geometry" />
+        <mxCell id="ZP7NSGQvpVb0K51s99iJ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZP7NSGQvpVb0K51s99iJ-35" target="ZP7NSGQvpVb0K51s99iJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZP7NSGQvpVb0K51s99iJ-35" value="用户数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="528" y="80" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
