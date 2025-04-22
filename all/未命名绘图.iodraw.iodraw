@@ -23,13 +23,13 @@
           <mxGeometry x="130" y="890" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6KfCgDGKn5El10VYtRsS-12" value="回答" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="470" y="570" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9taKXdIb0vQJjsyIS9F0-3" value="提问" style="rhombus;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="220" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9taKXdIb0vQJjsyIS9F0-4" value="回答问题" style="rhombus;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="590" width="90" height="60" as="geometry" />
+          <mxGeometry x="30" y="560" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9taKXdIb0vQJjsyIS9F0-5" value="回答问题" style="rhombus;whiteSpace=wrap;html=1;flipH=1;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="390" width="90" height="60" as="geometry" />
