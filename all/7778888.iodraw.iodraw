@@ -169,8 +169,11 @@
         <mxCell id="9taKXdIb0vQJjsyIS9F0-52" value="标题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="150" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9taKXdIb0vQJjsyIS9F0-53" value="问题ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9taKXdIb0vQJjsyIS9F0-53" value="文本内容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="240" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9taKXdIb0vQJjsyIS9F0-54" value="文本内容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="300" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
