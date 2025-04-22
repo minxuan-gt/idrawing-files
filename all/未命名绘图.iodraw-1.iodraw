@@ -29,10 +29,10 @@
         <mxCell id="ZP7NSGQvpVb0K51s99iJ-12" value="LSTM黄金价格预测模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="207.5" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="ZP7NSGQvpVb0K51s99iJ-13" value="投资助手大模型参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZP7NSGQvpVb0K51s99iJ-13" value="个性化投资策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="207.5" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="ZP7NSGQvpVb0K51s99iJ-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZP7NSGQvpVb0K51s99iJ-14" value="投资助手大模型参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="207.5" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
