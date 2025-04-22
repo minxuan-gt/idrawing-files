@@ -14,7 +14,7 @@
           <mxGeometry x="535" y="410" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6KfCgDGKn5El10VYtRsS-9" value="预测模型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-220" y="410" width="80" height="40" as="geometry" />
+          <mxGeometry x="-260" y="410" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6KfCgDGKn5El10VYtRsS-10" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="990" width="80" height="40" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="535" y="500" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9taKXdIb0vQJjsyIS9F0-7" value="回答问题" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="595" width="90" height="60" as="geometry" />
+          <mxGeometry x="-110" y="400" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
