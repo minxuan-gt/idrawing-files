@@ -32,7 +32,7 @@
         </mxCell>
         <UserObject label="" link="https://www.sge.com.cn/" id="ZP7NSGQvpVb0K51s99iJ-10">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=1;direction=east;container=0;" parent="1" vertex="1">
-            <mxGeometry x="209" y="444" width="410" height="90" as="geometry" />
+            <mxGeometry x="209" y="442" width="410" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="ZP7NSGQvpVb0K51s99iJ-12" value="LSTM黄金价格预测模型" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=1;direction=east;container=0;" parent="1" vertex="1">
