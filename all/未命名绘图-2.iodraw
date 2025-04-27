@@ -19,7 +19,7 @@
           <mxGeometry x="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eQ2sxAdykxbbaEnQaCGB-2" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="209" y="291" width="410" height="90" as="geometry" />
+          <mxGeometry x="209" y="320" width="410" height="90" as="geometry" />
         </mxCell>
         <UserObject label="" link="https://www.sge.com.cn/" id="ZP7NSGQvpVb0K51s99iJ-15">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=1;direction=east;" parent="eQ2sxAdykxbbaEnQaCGB-2" vertex="1">
@@ -62,7 +62,7 @@
           <mxGeometry x="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eQ2sxAdykxbbaEnQaCGB-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="209" y="575" width="410" height="90" as="geometry" />
+          <mxGeometry x="209" y="568" width="410" height="90" as="geometry" />
         </mxCell>
         <UserObject label="" link="https://www.sge.com.cn/" id="ZP7NSGQvpVb0K51s99iJ-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=1;direction=east;" parent="eQ2sxAdykxbbaEnQaCGB-4" vertex="1">
