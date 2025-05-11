@@ -7,7 +7,7 @@
         <mxCell id="DcMm4I8qUkqiphp9UGnT-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;基于深度学习的风力发电量预测系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="299" y="120" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DcMm4I8qUkqiphp9UGnT-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DcMm4I8qUkqiphp9UGnT-2">
+        <mxCell id="DcMm4I8qUkqiphp9UGnT-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DcMm4I8qUkqiphp9UGnT-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="255" y="210" as="targetPoint" />
           </mxGeometry>
@@ -30,6 +30,11 @@
         </mxCell>
         <mxCell id="DcMm4I8qUkqiphp9UGnT-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;风力发电量预测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="250" width="50" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DcMm4I8qUkqiphp9UGnT-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DcMm4I8qUkqiphp9UGnT-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="585" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="DcMm4I8qUkqiphp9UGnT-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据增删改查&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="250" width="50" height="130" as="geometry" />
