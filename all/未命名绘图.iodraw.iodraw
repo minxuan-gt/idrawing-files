@@ -34,7 +34,7 @@
         <mxCell id="DcMm4I8qUkqiphp9UGnT-19" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DcMm4I8qUkqiphp9UGnT-38" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DcMm4I8qUkqiphp9UGnT-20" target="DcMm4I8qUkqiphp9UGnT-25">
+        <mxCell id="DcMm4I8qUkqiphp9UGnT-38" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="DcMm4I8qUkqiphp9UGnT-20" target="DcMm4I8qUkqiphp9UGnT-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DcMm4I8qUkqiphp9UGnT-20" value="风力发电量预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
