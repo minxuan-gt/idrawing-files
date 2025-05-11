@@ -1,56 +1,9 @@
 <mxfile host="www.idrawing.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="JP5UDFQmrxuNFE_xHzcR">
-    <mxGraphModel dx="545" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1145" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DcMm4I8qUkqiphp9UGnT-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;基于深度学习的风力发电量预测系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="299" y="120" width="230" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DcMm4I8qUkqiphp9UGnT-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DcMm4I8qUkqiphp9UGnT-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="255" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DcMm4I8qUkqiphp9UGnT-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;用户以及管理员模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="230" y="250" width="50" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="DcMm4I8qUkqiphp9UGnT-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DcMm4I8qUkqiphp9UGnT-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="365" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DcMm4I8qUkqiphp9UGnT-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;风力发电量可视化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="250" width="50" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="DcMm4I8qUkqiphp9UGnT-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DcMm4I8qUkqiphp9UGnT-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="475" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DcMm4I8qUkqiphp9UGnT-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;风力发电量预测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="250" width="50" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="DcMm4I8qUkqiphp9UGnT-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DcMm4I8qUkqiphp9UGnT-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="585" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DcMm4I8qUkqiphp9UGnT-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据增删改查&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="250" width="50" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="DcMm4I8qUkqiphp9UGnT-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="414" y="210" as="sourcePoint" />
-            <mxPoint x="414" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DcMm4I8qUkqiphp9UGnT-7" value="" style="endArrow=none;html=1;rounded=0;targetPerimeterSpacing=-12;startSize=7;endSize=19;strokeWidth=1;jumpSize=10;edgeStyle=orthogonalEdgeStyle;sourcePerimeterSpacing=15;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="255" y="210" as="sourcePoint" />
-            <mxPoint x="585" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
