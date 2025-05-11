@@ -7,7 +7,7 @@
         <mxCell id="DcMm4I8qUkqiphp9UGnT-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;基于深度学习的风力发电量预测系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="299" y="120" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DcMm4I8qUkqiphp9UGnT-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;用户、管理员模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DcMm4I8qUkqiphp9UGnT-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;用户以及管理员模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="240" y="230" width="50" height="130" as="geometry" />
         </mxCell>
         <mxCell id="DcMm4I8qUkqiphp9UGnT-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;风力发电量可视化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
