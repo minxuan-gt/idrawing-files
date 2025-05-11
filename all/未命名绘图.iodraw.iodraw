@@ -73,6 +73,9 @@
         <mxCell id="DcMm4I8qUkqiphp9UGnT-33" value="进行可视化" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="330" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DcMm4I8qUkqiphp9UGnT-41" value="风力发电量预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
