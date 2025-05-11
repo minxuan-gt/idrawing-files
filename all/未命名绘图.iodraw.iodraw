@@ -12,7 +12,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DcMm4I8qUkqiphp9UGnT-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DcMm4I8qUkqiphp9UGnT-17" target="DcMm4I8qUkqiphp9UGnT-33">
+        <mxCell id="DcMm4I8qUkqiphp9UGnT-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DcMm4I8qUkqiphp9UGnT-17" target="DcMm4I8qUkqiphp9UGnT-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DcMm4I8qUkqiphp9UGnT-36" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DcMm4I8qUkqiphp9UGnT-34">
@@ -37,7 +37,7 @@
         <mxCell id="DcMm4I8qUkqiphp9UGnT-20" value="风力发电量预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DcMm4I8qUkqiphp9UGnT-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DcMm4I8qUkqiphp9UGnT-21" target="DcMm4I8qUkqiphp9UGnT-17">
+        <mxCell id="DcMm4I8qUkqiphp9UGnT-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DcMm4I8qUkqiphp9UGnT-21" target="DcMm4I8qUkqiphp9UGnT-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DcMm4I8qUkqiphp9UGnT-30" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DcMm4I8qUkqiphp9UGnT-23">
