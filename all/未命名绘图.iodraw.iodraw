@@ -11,10 +11,13 @@
           <mxGeometry x="290" y="230" width="50" height="130" as="geometry" />
         </mxCell>
         <mxCell id="DcMm4I8qUkqiphp9UGnT-3" value="风力发电量可视化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="220" width="50" height="130" as="geometry" />
+          <mxGeometry x="380" y="230" width="50" height="130" as="geometry" />
         </mxCell>
         <mxCell id="DcMm4I8qUkqiphp9UGnT-4" value="风力发电量预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="230" width="50" height="130" as="geometry" />
+          <mxGeometry x="480" y="230" width="50" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DcMm4I8qUkqiphp9UGnT-5" value="风力发电量预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="240" width="50" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
