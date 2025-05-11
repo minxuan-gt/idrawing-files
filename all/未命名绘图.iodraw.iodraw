@@ -8,16 +8,16 @@
           <mxGeometry x="280" y="120" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DcMm4I8qUkqiphp9UGnT-2" value="用户，管理员模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="230" width="50" height="130" as="geometry" />
+          <mxGeometry x="240" y="230" width="50" height="130" as="geometry" />
         </mxCell>
         <mxCell id="DcMm4I8qUkqiphp9UGnT-3" value="风力发电量可视化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="230" width="50" height="130" as="geometry" />
+          <mxGeometry x="350" y="230" width="50" height="130" as="geometry" />
         </mxCell>
         <mxCell id="DcMm4I8qUkqiphp9UGnT-4" value="风力发电量预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="230" width="50" height="130" as="geometry" />
+          <mxGeometry x="450" y="230" width="50" height="130" as="geometry" />
         </mxCell>
         <mxCell id="DcMm4I8qUkqiphp9UGnT-5" value="数据增删改查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="230" width="50" height="130" as="geometry" />
+          <mxGeometry x="530" y="230" width="50" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
