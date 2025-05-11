@@ -13,6 +13,9 @@
         <mxCell id="DcMm4I8qUkqiphp9UGnT-20" value="风力发电量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DcMm4I8qUkqiphp9UGnT-21" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
