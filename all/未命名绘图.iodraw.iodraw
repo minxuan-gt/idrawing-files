@@ -51,7 +51,7 @@
         <mxCell id="DcMm4I8qUkqiphp9UGnT-25" value="预测" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DcMm4I8qUkqiphp9UGnT-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DcMm4I8qUkqiphp9UGnT-28" value="风力发电量可视化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
