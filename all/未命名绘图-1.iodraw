@@ -17,7 +17,7 @@
         </mxCell>
         <mxCell id="Vlzeptm8ajA2vsqlVW5d-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Vlzeptm8ajA2vsqlVW5d-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="378" y="242" as="targetPoint" />
+            <mxPoint x="378" y="246" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vlzeptm8ajA2vsqlVW5d-3" value="风电发电量可视化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
