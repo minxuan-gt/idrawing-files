@@ -16,8 +16,8 @@
         <mxCell id="Vlzeptm8ajA2vsqlVW5d-4" value="风力发电量预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="456" y="283" width="45" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="Vlzeptm8ajA2vsqlVW5d-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="557" y="283" width="45" height="125" as="geometry" />
+        <mxCell id="Vlzeptm8ajA2vsqlVW5d-5" value="数据增删改查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="283" width="45" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
