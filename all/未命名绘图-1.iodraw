@@ -7,7 +7,7 @@
         <mxCell id="Vlzeptm8ajA2vsqlVW5d-1" value="基于深度学习的风电发电量预测系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="292" y="161" width="263" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="Vlzeptm8ajA2vsqlVW5d-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vlzeptm8ajA2vsqlVW5d-2">
+        <mxCell id="Vlzeptm8ajA2vsqlVW5d-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Vlzeptm8ajA2vsqlVW5d-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="277" y="252" as="targetPoint" />
           </mxGeometry>
