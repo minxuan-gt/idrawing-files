@@ -19,6 +19,12 @@
         <mxCell id="Vlzeptm8ajA2vsqlVW5d-5" value="数据增删改查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="565" y="283" width="45" height="125" as="geometry" />
         </mxCell>
+        <mxCell id="Vlzeptm8ajA2vsqlVW5d-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="271" y="252" as="sourcePoint" />
+            <mxPoint x="321" y="202" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
