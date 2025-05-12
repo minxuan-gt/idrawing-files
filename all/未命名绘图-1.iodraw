@@ -9,7 +9,7 @@
         </mxCell>
         <mxCell id="Vlzeptm8ajA2vsqlVW5d-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Vlzeptm8ajA2vsqlVW5d-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="277" y="252" as="targetPoint" />
+            <mxPoint x="277" y="244" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vlzeptm8ajA2vsqlVW5d-2" value="用户以及管理员模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -31,7 +31,7 @@
         <mxCell id="Vlzeptm8ajA2vsqlVW5d-4" value="风力发电量预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="456" y="283" width="45" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="Vlzeptm8ajA2vsqlVW5d-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vlzeptm8ajA2vsqlVW5d-5">
+        <mxCell id="Vlzeptm8ajA2vsqlVW5d-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Vlzeptm8ajA2vsqlVW5d-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="588" y="247" as="targetPoint" />
           </mxGeometry>
