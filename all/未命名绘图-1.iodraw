@@ -13,7 +13,7 @@
         <mxCell id="Vlzeptm8ajA2vsqlVW5d-3" value="风电发电量可视化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="283" width="45" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="Vlzeptm8ajA2vsqlVW5d-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vlzeptm8ajA2vsqlVW5d-4" value="风力发电量预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="456" y="283" width="45" height="125" as="geometry" />
         </mxCell>
         <mxCell id="Vlzeptm8ajA2vsqlVW5d-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
