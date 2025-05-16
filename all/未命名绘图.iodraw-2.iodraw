@@ -13,11 +13,11 @@
         <mxCell id="ZGvmi9FiX1Yw0KsSL7Hy-3" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="523" y="124" width="100" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ZGvmi9FiX1Yw0KsSL7Hy-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZGvmi9FiX1Yw0KsSL7Hy-7" target="ZGvmi9FiX1Yw0KsSL7Hy-16">
+        <mxCell id="ZGvmi9FiX1Yw0KsSL7Hy-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ZGvmi9FiX1Yw0KsSL7Hy-7" target="ZGvmi9FiX1Yw0KsSL7Hy-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZGvmi9FiX1Yw0KsSL7Hy-7" value="风电数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="198" y="314" width="100" height="49" as="geometry" />
+          <mxGeometry x="194" y="314" width="100" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ZGvmi9FiX1Yw0KsSL7Hy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ZGvmi9FiX1Yw0KsSL7Hy-9" target="ZGvmi9FiX1Yw0KsSL7Hy-1">
           <mxGeometry relative="1" as="geometry" />
