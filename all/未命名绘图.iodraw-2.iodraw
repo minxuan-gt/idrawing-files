@@ -60,7 +60,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZGvmi9FiX1Yw0KsSL7Hy-27" value="增删改查" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="376" y="226" width="76" height="36" as="geometry" />
+          <mxGeometry x="379" y="249" width="76" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
