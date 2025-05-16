@@ -25,14 +25,8 @@
         <mxCell id="ZGvmi9FiX1Yw0KsSL7Hy-9" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="373" y="130.5" width="76" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="ZGvmi9FiX1Yw0KsSL7Hy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZGvmi9FiX1Yw0KsSL7Hy-16" target="ZGvmi9FiX1Yw0KsSL7Hy-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ZGvmi9FiX1Yw0KsSL7Hy-16" value="预测" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="206" y="221" width="76" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="ZGvmi9FiX1Yw0KsSL7Hy-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.868;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZGvmi9FiX1Yw0KsSL7Hy-16" target="ZGvmi9FiX1Yw0KsSL7Hy-16">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="210" y="220" width="76" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
